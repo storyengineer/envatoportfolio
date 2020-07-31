@@ -1,0 +1,586 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,900;1,900&display=swap');
+
+.navbar-nav {
+    font-family: "Raleway";
+    font-weight: bold;
+    padding: 0px 170px;
+    
+    
+}
+
+.navbar-nav > li{
+    padding-left:20px;
+    padding-right:20px;
+  }
+
+  .banana {
+    font-family: "Raleway";
+  }
+  
+
+  .myH1 {
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 900;
+font-size: 90px;
+line-height: 110px;
+
+
+color: #262829;
+
+
+
+
+  }
+
+
+  .body {
+    overflow-x:hidden;
+  
+    margin: 0px;
+    padding: 0px;
+    max-width: 100%;
+    width: 100vw;
+}
+
+  .text3 {
+    font-family: "Raleway";
+  }
+
+  .nav-item:hover {
+    color: #BE3948;
+  }
+
+ 
+
+  .myP1 {
+font-family: "Raleway";
+font-style: italic;
+font-weight: bold;
+font-size: 16px;
+line-height: 19px;
+color: #262829;
+
+
+  }
+
+
+  .navbar-toggler-icon {
+    color: white;
+}
+
+.navbar-toggler {
+    background-color: white;
+  
+}
+
+.bg-image {
+    background-image: url('0rwv0RfnsxQ.png');
+}
+
+.myHT {
+  font-family: "Raleway";
+}
+
+.myHR {
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 90px;
+  -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  
+  
+  
+  }
+
+
+ 
+
+.myH3 {
+ 
+
+font-family: "Raleway";
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 41px;
+
+color: #000000;
+
+
+}
+
+.myP3 {
+
+
+font-family: "Raleway";
+font-style: italic;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+
+color: #000000;
+
+
+}
+
+.myP4 {
+    
+
+font-family: "Raleway";
+font-style: normal;
+font-weight: normal;
+
+
+color: #000000;
+
+
+}
+
+.more {
+  display: none;
+}
+
+
+.text7 {
+  margin-left: 320px;
+  margin-top: 100px;
+}
+
+.myH6 {
+
+
+font-family: "Raleway";
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+line-height: 41px;
+
+color: #000000;
+
+
+}
+
+.myP7 {
+
+font-family: "Raleway";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+
+
+color: #000000;
+
+
+}
+
+.text2 {
+  font-family: "Raleway";
+  
+}
+
+.offimg{
+  display: block;
+}
+
+.navbar a:hover {
+  background-color: #BE3948;
+}
+
+
+.contactform form input{
+    border-radius: 5px !important;
+    border: 1px solid #262829;
+    height: 70px;
+}
+.contactform form textarea{
+    border-radius: 5px !important;
+    border: 1px solid #262829;
+    padding: 0px !important;
+    margin: 0px !important;
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.text-white {
+    font-family: "Montserrat";
+    
+}
+
+
+.myH5 {
+ 
+font-family: "Montserrat";
+font-style: normal;
+font-weight: 900;
+font-size: 90px;
+-webkit-text-fill-color: white; 
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+
+
+
+}
+
+
+
+
+.last {
+
+font-family: "Poppins";
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+
+color: #262829;
+
+
+
+}
+
+
+.myH8 {
+
+font-family: "Raleway";
+font-style: normal;
+font-weight: bold;
+font-size: 35px;
+
+color: #000000;
+
+
+}
+
+.myP9 {
+ 
+font-family: "Raleway";
+font-style: normal;
+font-weight: normal;
+font-size: 13px;
+
+
+color: #000000;
+
+
+}
+
+.text2 {
+font-family: "Raleway";
+font-style: normal;
+
+
+color: #000000;
+
+}
+
+
+
+.text {
+
+
+
+width: 191px;
+height: 67px;
+
+
+/* Highlight */
+border: 2px solid #BE3948;
+box-sizing: border-box;
+border-radius: 5px;
+
+font-family: "Montserrat";
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+
+/* Highlight */
+color: #BE3948;
+
+/* Inside Auto Layout */
+}
+
+.myHY {
+  float: right;
+}
+
+.text3 {
+  font-family: "Raleway";
+}
+
+
+.dame {
+  font-weight: normal; 
+  font-size: 18px;
+}
+
+.man {
+  font-weight: normal; 
+  font-size: 18px;
+}
+
+.fin {
+  font-weight: normal; 
+  font-size: 18px;
+}
+
+
+.contacts4 {
+  text-align: center;
+}
+
+
+@media only screen and (max-width: 767px) {
+
+  .Divider {
+    display: none;
+  }
+
+  .offimg {
+display: none;
+  }
+
+  .contacts {
+    display: none;
+  }
+
+  .desktop {
+    display: none;
+  }
+
+.contactform form input {
+
+
+
+
+border: 1px solid #262829;
+box-sizing: border-box;
+border-radius: 5px;
+width: 100%;
+max-width: 100%;
+height: 50px;
+
+}
+
+
+.contactform form textarea {
+
+  border-radius: 5px !important;
+  border: 1px solid #262829;
+  width: 100% !important;
+  max-width: 100% !important;
+  height: 90px;
+}
+
+.contacts2 {
+  
+  margin-top: 50px;
+ 
+}
+
+.bg-image {
+  background-image: none;
+}
+
+.myH1 {
+  font-size: 50px;
+  font-family: "Montserrat";
+font-style: normal;
+font-weight: 900;
+color: #262829;
+
+}
+
+
+.dame {
+  font-weight: normal; 
+  font-size: 9px;
+}
+
+.man {
+  font-weight: normal; 
+  font-size: 9px;
+}
+
+.fin {
+  font-weight: normal; 
+  font-size: 9px;
+}
+
+.myP4 {
+    
+
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  
+  font-size: 9px;
+  color: #000000;
+  
+  
+  }
+  .myHR {
+
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 40px;
+  -webkit-text-fill-color: white; 
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+  
+  
+  
+  }
+
+  .myH1 {
+
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 900;
+    font-size: 40px;
+    line-height: 110px;
+    
+    
+    color: #262829;
+    
+    
+    
+    
+      }
+
+
+      .text2 {
+        text-align: center;
+      }
+  
+
+
+}
+
+@media only screen and (min-width: 768px) {
+
+  .mobile {
+    display: none;
+  }
+}
+
+@media (width: 768px) {
+
+  .offimg {
+    margin-left: 600px;
+    display: block;
+   }
+ 
+
+.myP9 {
+ 
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 10px;
+  margin-left: 0px;
+ 
+  
+  
+  color: #000000;
+  
+  
+  }
+
+  .text2 {
+    text-align: center;
+  }
+
+  
+  .dame {
+    font-family: "Raleway";
+    font-size: 9px;
+  }
+
+  .man {
+    font-family: "Raleway";
+    font-size: 9px;
+  }
+
+  .fin {
+    font-family: "Raleway";
+    font-size: 9px;
+  }
+
+  .text7 {
+    margin-right: 180px;
+    font-size: 5px;
+    margin-bottom: 200px;
+  
+
+  }
+
+
+
+
+}
+
+
+
+@media (width: 1920px) { 
+
+.myHT {
+  margin-left: 200px;
+  float: right;
+}
+
+.text3 {
+  margin-left: 200px;
+  
+}
+
+.contactform form input{
+border: 1px solid #262829;
+box-sizing: border-box;
+border-radius: 5px;
+width: 350px;
+max-width: 100%;
+height: 50px;
+
+
+}
+
+
+.contactform form textarea {
+
+  border-radius: 5px !important;
+  border: 1px solid #262829;
+  width: 350px !important;
+  max-width: 100% !important;
+  height: 90px;
+ 
+ 
+}
+
+.contacts9 {
+
+  margin-left: 320px;
+  margin-top: 70px;
+
+}
+
+.contacts {
+  margin-left: 10px;
+}
+
+.body {
+  overflow: hidden;
+  overflow-y: scroll;
+}
+
+}
+
